@@ -1,8 +1,8 @@
 # DSBiwiWS2021
- Sammlung von Ressourcen für das Seminar "Data-Science in der Bildung. Mit Daten Bildungsprozesse sichtbar machen und steuern"
+ Sammlung von Ressourcen für das Seminar "Data-Science in der Bildung. Mit Daten Bildungsprozesse sichtbar machen und steuern" im Wintersemester 2020/2021 an der Pädagogischen Hochschule Heidelberg
 
 # Grundlagen: Literatur
-
+[Estrellado, R.A., Bovee, E.A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. A. (2021). Data Science in Education using R. Routledge](https://datascienceineducation.com)
 
 [Liu, M. C., & Huang, Y. M. (2017). The use of data science for education: The case of social-emotional learning. Smart Learning Environments, 4(1), 1.](https://slejournal.springeropen.com/articles/10.1186/s40561-016-0040-4)
 
