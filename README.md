@@ -11,7 +11,9 @@
 [Biehler, R., Budde, L., Frischemeier, D., Heinemann, B., Podworny, S., Schulte, C., & Wassong, T. (Eds.) (2018): Paderborn Symposium on Data Science Education at School Level 2017: The Collected Extended Abstracts. Paderborn: Universitätsbibliothek Paderborn. http://doi.org/10.17619/UNIPB/1-374](https://www.telekom-stiftung.de/sites/default/files/files/PaderbornSymposiumDataScience2017_0.pdf)
 
 # Grundlagen: Werkzeuge
-Statistische Programmiersprache R
+Statistische Programmiersprache R (https://www.r-project.org)
+R-Studio (https://rstudio.com)
+Jupyter-Notebooks (https://jupyter.org)
 
 
 # Freie Datensätze
@@ -20,4 +22,6 @@ Statistische Programmiersprache R
 
 [Daten des Bundesministeriums für Bildung und Forschung](https://www.datenportal.bmbf.de/portal/de/K2.html)
 
-[OECD Daten zu TALIS - The OECD Teaching and Learning International Survey](http://www.oecd.org/education/talis/talis-2018-data.htm)
+[OECD Daten zu TALIS - The OECD Teaching and Learning International Survey] r(http://www.oecd.org/education/talis/talis-2018-data.htm)
+
+[OECD Daten zu PISA 2018](https://www.oecd.org/pisa/data/2018database/#d.en.516012)
