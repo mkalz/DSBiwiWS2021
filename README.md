@@ -12,7 +12,9 @@
 
 # Grundlagen: Werkzeuge
 Statistische Programmiersprache R (https://www.r-project.org)
+
 R-Studio (https://rstudio.com)
+
 Jupyter-Notebooks (https://jupyter.org)
 
 
@@ -22,6 +24,6 @@ Jupyter-Notebooks (https://jupyter.org)
 
 [Daten des Bundesministeriums für Bildung und Forschung](https://www.datenportal.bmbf.de/portal/de/K2.html)
 
-[OECD Daten zu TALIS - The OECD Teaching and Learning International Survey] r(http://www.oecd.org/education/talis/talis-2018-data.htm)
+[OECD Daten zu TALIS - The OECD Teaching and Learning International Survey](http://www.oecd.org/education/talis/talis-2018-data.htm)
 
 [OECD Daten zu PISA 2018](https://www.oecd.org/pisa/data/2018database/#d.en.516012)
