@@ -10,3 +10,5 @@
 # Freie Datensätze
 
 [Daten zum Nationalen Bildungsbericht (2020)](https://www.bildungsbericht.de/de/datengrundlagen/daten-2020)
+
+[Daten des Bundesministeriums für Bildung und Forschung](https://www.datenportal.bmbf.de/portal/de/K2.html)
