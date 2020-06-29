@@ -16,12 +16,14 @@
 
 [Heidrich, J., Bauer, P., & Krupka, D. (2018). Future Skills: Ansätze zur Vermittlung von Data-Literacy in der Hochschulbildung.  Arbeitspapier Nr. 37. Berlin: Hochschulforum Digitalisierung. DOI: 10.5281/zenodo.1413119](https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_Nr37_DALI_Studie.pdf)
 
-# Grundlagen: Werkzeuge
+# Grundlagen: Werkzeuge & Standards
 Statistische Programmiersprache R (https://www.r-project.org)
 
 R-Studio (https://rstudio.com)
 
 Jupyter-Notebooks (https://jupyter.org)
+
+Domain-Data-Protokolle für die empirische Bildungsforschung in Deutschland (https://www.forschungsdaten.org/index.php/DDP-Bildung)
 
 
 # Freie Datensätze
@@ -33,3 +35,7 @@ Jupyter-Notebooks (https://jupyter.org)
 [OECD Daten zu TALIS - The OECD Teaching and Learning International Survey](http://www.oecd.org/education/talis/talis-2018-data.htm)
 
 [OECD Daten zu PISA 2018](https://www.oecd.org/pisa/data/2018database/#d.en.516012)
+
+[Govdata. Das Datenportal für Deutschland](https://www.govdata.de/web/guest/suchen/-/searchresult/q//f/groups%3Aeduc%2C)
+
+[Destatis. Statistisches Bundesamt](https://www-genesis.destatis.de/genesis/online?operation=themes&levelindex=0&levelid=1593405666871&code=21#abreadcrumb)
