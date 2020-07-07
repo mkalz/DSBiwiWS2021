@@ -18,6 +18,16 @@
 
 [Heidrich, J., Bauer, P., & Krupka, D. (2018). Future Skills: Ansätze zur Vermittlung von Data-Literacy in der Hochschulbildung.  Arbeitspapier Nr. 37. Berlin: Hochschulforum Digitalisierung. DOI: 10.5281/zenodo.1413119](https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_Nr37_DALI_Studie.pdf)
 
+# Projekte & Veranstaltungen an Hochschulen
+[Datafied. BMBF Projekt](https://datafied.de)
+
+[YourStudy. BMBF Projekt](https://your-study.info)
+
+[Uni Bielefeld: Modul 25-BE-IndiErg14 Data Literacy - Kulturtechnik des 21. Jahrhunderts](https://ekvv.uni-bielefeld.de/sinfo/publ/modul/183680264)
+
+
+
+
 # Grundlagen: Werkzeuge & Standards
 Statistische Programmiersprache R (https://www.r-project.org)
 
@@ -41,3 +51,5 @@ Domain-Data-Protokolle für die empirische Bildungsforschung in Deutschland (htt
 [Govdata. Das Datenportal für Deutschland](https://www.govdata.de/web/guest/suchen/-/searchresult/q//f/groups%3Aeduc%2C)
 
 [Destatis. Statistisches Bundesamt](https://www-genesis.destatis.de/genesis/online?operation=themes&levelindex=0&levelid=1593405666871&code=21#abreadcrumb)
+
+[Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset)
